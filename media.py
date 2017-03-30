@@ -21,4 +21,3 @@ class Movie():
     def show_trailer(self):
         # uses webbrowser module to open the movie trailer
         webbrowser.open(self.trailer_youtube_url)
-
